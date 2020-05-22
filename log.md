@@ -3,7 +3,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#) **23/05/20**|FSharp.Data, Html Type Provider|
+|[Day 1](#day-1) **01/02/18**|FSharp.Data, Html Type Provider|[Day 2](#day-2) **01/03/18**|FSharp.Data, Html Type Provider, JSON Type Provider, IEX Trading API|
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
