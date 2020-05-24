@@ -3,7 +3,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/05/20**|python basic ,solved hacker rank problems |[Day 2](#day-2) **23/05/20**||
+|[Day 1](#day-1) **22/05/20**|python basic ,solved hacker rank problems |[Day 2](#day-2) **23/05/20**|Data exploration & cleaing using python|
 <a name="day-1"></a>
 ### Day 1: 
 
@@ -14,4 +14,10 @@
 **Link(s) to work**: hacker rank problems
 
 <a name="day-2"></a>
+### Day 2: 
+
+**Today's Progress**: did some data exploration using panada & numpy using juypter
+
+**Thoughts** : learing the python for data science using an online medium
+
 
