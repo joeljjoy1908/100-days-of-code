@@ -4,7 +4,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **23/05/20**|python basic ,solved hacker rank problems |[Day 2](#day-2) **24/05/20**|Data exploration & cleaing using python|
-|[Day 3](#day-3) **25/05/20**|javascript basics from freecodecamp|[Day 4](#day-4) **26/05/20**||
+|[Day 3](#day-3) **25/05/20**|javascript basics from freecodecamp|[Day 4](#day-4) **27/05/20**|data science using python,panda and numpy|
 <a name="day-1"></a>
 ### Day 1: 
 
@@ -27,4 +27,12 @@
 **Today's Progress**: Javascript basics from freecodecamp
 
 **Thoughts** : did some excerise from codefreecamp for Js 
+
+<a name="day-4"></a>
+### Day 3: 
+
+**Today's Progress**: Data science using python , panda, numpy
+
+**Thoughts** : did some ploting and segrating using the financial datas 
+
 
